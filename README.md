@@ -62,4 +62,7 @@
 
 ## ✅ Project
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ehgus5825)](https://velog.io/@ehgus5825/series/%EB%83%89%EC%9E%A5%EA%B3%A0%EB%A5%BC-%EB%B6%80%ED%83%81%ED%95%B4)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ehgus5825)](https://velog.io/@ehgus5825/series/%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%84%EB%8B%A8-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EC%A0%9C%EC%9E%91-jsp-bootstrap)
+
 </div>
