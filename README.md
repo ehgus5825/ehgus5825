@@ -41,8 +41,11 @@
 </div>
 
 ## 📞 Contacts
-[![velog Badge](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&link=https://velog.io/@ehgus5825/posts)](https://velog.io/@ehgus5825/posts)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ehgus5825@naver.com)](mailto:ehgus5825@naver.com)
+
+<br>
+
+[![velog Badge](https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=FFFFFF&link=https://velog.io/@ehgus5825/posts)](https://velog.io/@ehgus5825/posts)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:ehgus5825@naver.com)](mailto:ehgus5825@naver.com)
 
 </div>
 <br>
