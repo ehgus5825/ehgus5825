@@ -1,8 +1,11 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus5825)](https://solved.ac/ehgus5825/)
+<div align="center">
 
 ![ehgus5825's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehgus5825&show_icons=true&theme=transparent)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus5825)](https://solved.ac/ehgus5825/)
 
-## 🔨 Skill 🔨
+
+## 🔨 tech stack 🔨
+
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -27,4 +30,8 @@
     </div>
 </div>
 
+## 🔨 tool 🔨
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fehgus5825&count_bg=%23BFC0A1&title_bg=%23DFDC97&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
