@@ -40,6 +40,10 @@
     </div>
 </div>
 
+## 📞 Contacts
+[![velog Blog Badge](http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ehgus5825@naver.com)](mailto:ehgus5825@naver.com)
+
 </div>
 <br>
 <br>
