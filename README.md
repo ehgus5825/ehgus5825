@@ -32,6 +32,9 @@
         <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/amazon s3-569A31?style=flat&logo=amazons3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white"/>
+        <img src="https://img.shields.io/badge/junit5-25A162?style=flat&logo=junit5&logoColor=white"> 
     </div>
     <br>
     <p><strong>조금 할 줄 압니다!</strong></p>
@@ -41,7 +44,7 @@
         <img src="https://img.shields.io/badge/spring security-6DB33F?style=flat&logo=spring security&logoColor=white">
         <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black">
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazon aws&logoColor=white"> 
+        <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=flat&logo=amazonec2&logoColor=white"> 
     </div>
     <br>
     <p><strong>Co-work</strong></p>
