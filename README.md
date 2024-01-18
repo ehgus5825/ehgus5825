@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=280&section=header&text=dohyun's%20Github!&fontSize=85&fontColor=404040&animation=fadeIn&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=venom&height=280&section=header&text=dohyun's%20Github!&fontSize=85&fontColor=404040&animation=fadeIn&color=0:4C9900,100:9999ff)
 
 ![ehgus5825's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehgus5825&show_icons=true&theme=transparent)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus5825)](https://solved.ac/ehgus5825/)
