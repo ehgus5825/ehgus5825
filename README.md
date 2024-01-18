@@ -2,13 +2,27 @@
 
 <br>
 
-<div align="center">
+<div text-align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=280&section=header&text=dohyun's%20Github!&fontSize=85&fontColor=404040&animation=fadeIn&color=0:4C9900,100:9999ff)
 
 ![ehgus5825's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehgus5825&show_icons=true&theme=transparent)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus5825)](https://solved.ac/ehgus5825/)
 
+## 📋 about me
+
+<div text-align="left">
+
+<br>
+
+💡  웹 백엔드 개발과 서버 개발에 관심이 많습니다.\
+🔥  동아대학교 컴퓨터공학과를 졸업한 후 현재 구직 중에 있습니다. \
+✍️  스스로 습득한 내용을 블로그에 작성하고 있습니다. 👉 [Link!!](https://velog.io/@ehgus5825/posts) \
+💬  궁금한 사항이 있으시면 ehgus5825@naver.com으로 연락주세요!
+
+<br>
+
+</div>
 
 ## 🔨 tech stack 🔨
 
@@ -45,9 +59,11 @@
 
 ## 📞 Contacts
 
-<br>
-
 [![velog Badge](https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=FFFFFF&link=https://velog.io/@ehgus5825/posts)](https://velog.io/@ehgus5825/posts)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:ehgus5825@naver.com)](mailto:ehgus5825@naver.com)
+
+<br>
+
+## ✅ Project
 
 </div>
