@@ -2,7 +2,7 @@
 
 <br>
 
-<div text-align="center">
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=280&section=header&text=dohyun's%20Github!&fontSize=85&fontColor=404040&animation=fadeIn&color=0:4C9900,100:9999ff)
 
@@ -10,8 +10,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus5825)](https://solved.ac/ehgus5825/)
 
 ## 📋 about me
-
-<div text-align="left">
 
 <br>
 
@@ -21,8 +19,6 @@
 💬  궁금한 사항이 있으시면 ehgus5825@naver.com으로 연락주세요!
 
 <br>
-
-</div>
 
 ## 🔨 tech stack 🔨
 
