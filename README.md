@@ -41,7 +41,7 @@
 </div>
 
 ## 📞 Contacts
-[![velog Blog Badge](http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/)
+[![velog Badge](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&link=https://velog.io/@ehgus5825/posts)](https://velog.io/@ehgus5825/posts)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ehgus5825@naver.com)](mailto:ehgus5825@naver.com)
 
 </div>
