@@ -1,3 +1,7 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fehgus5825&count_bg=%23BFC0A1&title_bg=%23DFDC97&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<br>
+
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=280&section=header&text=dohyun's%20Github!&fontSize=85&fontColor=404040&animation=fadeIn&color=0:4C9900,100:9999ff)
@@ -47,7 +51,3 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:ehgus5825@naver.com)](mailto:ehgus5825@naver.com)
 
 </div>
-<br>
-<br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fehgus5825&count_bg=%23BFC0A1&title_bg=%23DFDC97&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
